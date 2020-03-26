@@ -5,24 +5,42 @@ Resources for Information Security and related
 Reference and Technical:
 
 Hacking: The Art of Exploitation
+
 Hacking Exposed series
+
 Black Hat Python
+
 Metasploit Unleashed
+
 Violent Python
+
 Gray Hat Hacking
+
 The Car Hacker's Handbook
+
 RTFM - Red Team Field Manual
+
 Penetration Testing
 Malware Forensics: Field Guide for Linux Systems
+
 Practical Malware Analysis
+
 Learning Malware Analysis
+
 Web Applicaion Hacker's Handbook
+
 Advanced Persistent Threat Hacking
+
 Hacking Web Apps
+
 Shellcoder's Handbook
+
 The Hacker Playbook 3
+
 Advanced Penetration Testing
+
 How to Hack like a Porn Star
+
 POC||GTFO
 
 Leisure Reading List:
