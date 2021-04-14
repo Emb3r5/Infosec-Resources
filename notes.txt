@@ -1,0 +1,5 @@
+Dis-Organized Notes:
+
+Web Server One-Liners (Use Python's Twisted Module for multi-socket):
+https://gist.github.com/willurd/5720255
+
